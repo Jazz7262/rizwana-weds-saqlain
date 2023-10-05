@@ -140,7 +140,7 @@ function Couple() {
                             <p className="mt-1 mt-lg-2">
                                 S/O Janab{" "}
                                 <strong>
-                                    C. Mohammed Ishaq Sahab(Late) - Aalu Wale,
+                                    C. Mohammed Ishaq Sahab(Late) - Aalu Wale.
                                 </strong>
                             </p>
 
@@ -255,13 +255,13 @@ function Couple() {
                         </div>
                         <div className="info bride-info">
                             <h3>
-                                Gadwal Rizwana Hasanati<sub>(Aalima),</sub>
+                                Gadwal Rizwana Hasanati <sub>(Aalima),</sub>
                             </h3>
                             {/* <p className="mt-2 mt-lg-3">
                                 Professsion: <strong>Software Engineer,</strong>
                             </p> */}
                             <p className="mt-2 mt-lg-3">
-                                Paternal Grand D/O Janab
+                                Paternal Grand D/O Janab{" "}
                                 <strong>
                                     Gadwal Abdul Sattar Sahab(Late),
                                 </strong>
@@ -269,7 +269,7 @@ function Couple() {
                             <p className="mt-1 mt-lg-2">
                                 Maternal Grand D/O Janab{" "}
                                 <strong>
-                                    Gafoor Abdul Khader Sahab(Late).
+                                    Shaikh Sattar Sahab(Late).
                                 </strong>
                             </p>
                             {/* <p className="mt-1 mt-lg-2">
